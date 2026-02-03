@@ -8,7 +8,7 @@ Wellcome to my personal dotfiles repository for my arch linux with Hyprland!
 |📚Entry|✨App |
 |---|----------|
 |OS |Arch linux |
-|Window Manager | Hyprland |
+|Window Manager | hyprland |
 |Package Manager | pacman |
 |AUR Helper | yay |
 |Display Manager| greetd + tui-greet |
@@ -17,9 +17,9 @@ Wellcome to my personal dotfiles repository for my arch linux with Hyprland!
 |Clipboard Manager | wl-clipboard + cliphhist |
 |Launcher | wofi |
 |Wallpaper Switcher | swww |
-|Lock screen | hyprlock |
+|Lock Screen | hyprlock |
 |Idle Timeout | hypridle |
-|Screenshot tool| hyprshot(grim + slurp) |
+|Screenshot Tool| hyprshot(grim + slurp) |
 |Image Annotation | satty |
 
 </details>
