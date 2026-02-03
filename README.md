@@ -38,9 +38,11 @@ Here is all the info about my setup:3
 
 <details>
 <summary> <b>🔍 Other</b> </summary>
+
 |📚Component|✨Choice|
 |-------|------|
 |Theme| Catppuccin Mocha|
 |Icons| Dracula Icons |
 |Font | JetBrains Mono Nerd Font |
+
 </details>
