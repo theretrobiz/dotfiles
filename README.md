@@ -2,7 +2,8 @@
 Wellcome to my personal dotfiles repository for my arch linux with Hyprland!
 
 ## About
-🐧System
+<details>
+<summary> 🐧System </summary>
 |📚Entry|✨App |
 |---|----------|
 |OS |Arch linux |
@@ -19,12 +20,19 @@ Wellcome to my personal dotfiles repository for my arch linux with Hyprland!
 |Idle Timeout | hypridle |
 |Screenshot tool| hyprshot(grim + slurp) |
 |Image Annotation | satty |
+</details>
 
-💻CLI/TUI Apps
+<details>
+<summary> 💻CLI/TUI Apps </summary>
 (ill add soon)
+</details>
 
-🖱️GUI Apps
+<details>
+<summary> 🖱️GUI Apps </summary>
 (ill add soon)
+</details>
 
-🔍 Other
+<details>
+<summary> 🔍 Other </summary>
 (ill add soon)
+</details>
