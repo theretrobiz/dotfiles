@@ -3,7 +3,7 @@ Wellcome to my personal dotfiles repository for my arch linux with Hyprland!
 
 ## About
 <details>
-<summary> 🐧System </summary>
+<summary> *🐧System* </summary>
 
 |📚Entry|✨App |
 |---|----------|
@@ -25,16 +25,16 @@ Wellcome to my personal dotfiles repository for my arch linux with Hyprland!
 </details>
 
 <details>
-<summary> 💻CLI/TUI Apps </summary>
+<summary> *💻CLI/TUI Apps* </summary>
 (ill add soon)
 </details>
 
 <details>
-<summary> 🖱️GUI Apps </summary>
+<summary> *🖱️GUI Apps* </summary>
 (ill add soon)
 </details>
 
 <details>
-<summary> 🔍 Other </summary>
+<summary> *🔍 Other* </summary>
 (ill add soon)
 </details>
