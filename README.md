@@ -2,8 +2,11 @@
 Wellcome to my personal dotfiles repository for my arch linux with Hyprland!
 
 ## About
+🐧System
 |📚Entry|✨App |
 |---|----------|
-|WM | Hyprland |
-|Bar| Waybar   |
-|Editor| Code, nvim|
+|OS |Arch linux |
+|Window Manager | Hyprland |
+|Package Manager | pacman |
+|Aur Helper | yay |
+
