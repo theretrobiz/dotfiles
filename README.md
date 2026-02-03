@@ -7,7 +7,7 @@ Here is all the info about my setup:3
 <details>
 <summary> <b>🐧System</b> </summary>
 
-|📚Entry|✨App |
+|📚Component|✨Choice |
 |---|----------|
 |OS |Arch linux |
 |Window Manager | hyprland |
@@ -38,7 +38,7 @@ Here is all the info about my setup:3
 
 <details>
 <summary> <b>🔍 Other</b> </summary>
-|📚Entry|✨App|
+|📚Component|✨Choice|
 |-------|------|
 |Theme| Catppuccin Mocha|
 |Icons| Dracula Icons |
