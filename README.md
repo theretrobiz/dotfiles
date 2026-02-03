@@ -2,7 +2,7 @@
 Wellcome to my personal dotfiles repository for my arch linux with Hyprland!
 
 ## About
-Here all info about my system:3
+Here is all the info about my system:3
 
 <details>
 <summary> <b>🐧System</b> </summary>
