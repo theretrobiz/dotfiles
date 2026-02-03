@@ -1,7 +1,7 @@
 # Dotfiles
-Wellcome to my personal dotfiles repository for my arch linux with Hyprland!
+👋Wellcome to my personal dotfiles repository for my arch linux with Hyprland!
 
-## About
+## 🖌️About
 Here is all the info about my setup:3
 
 <details>
@@ -38,5 +38,9 @@ Here is all the info about my setup:3
 
 <details>
 <summary> <b>🔍 Other</b> </summary>
-(ill add soon)
+|📚Entry|✨App|
+|-------|------|
+|Theme| Catppuccin Mocha|
+|Icons| Dracula Icons |
+|Font | JetBrains Mono Nerd Font |
 </details>
