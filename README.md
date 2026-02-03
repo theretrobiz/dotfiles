@@ -3,7 +3,7 @@ Wellcome to my personal dotfiles repository for my arch linux with Hyprland!
 
 ## About
 <details>
-<summary> *🐧System* </summary>
+<summary> **🐧System** </summary>
 
 |📚Entry|✨App |
 |---|----------|
